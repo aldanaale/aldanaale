@@ -1,128 +1,149 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║           Alejandro Aldana · Developer         ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cfc&height=200&section=header&text=Alejandro%20Aldana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20TypeScript%20·%20C%23/.NET%20·%20SQL&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-**`TypeScript · C#/.NET · SQL · Clean Architecture · CQRS`**
+<br/>
 
-Desarrollador buscando primer rol profesional.  
-Construyo APIs REST con arquitectura limpia desde el inicio, no como extra.  
-Integro herramientas de IA (agentes, MCP, LLMs) en mi flujo de trabajo diario.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Clean+Architecture+%2B+CQRS+desde+el+inicio;REST+APIs+%7C+TypeScript+%7C+C%23+%2F+.NET;Buscando+primer+rol+profesional+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/alejandro.aldan89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alejandro.aldan89@gmail.com)
-[![Santiago](https://img.shields.io/badge/Santiago,_Chile-0078D4?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![AZ-900](https://img.shields.io/badge/AZ--900_en_proceso-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
-[![Open to work](https://img.shields.io/badge/Open_to_work-22c55e?style=flat-square&logo=briefcase&logoColor=white)](#)
+<br/>
+
+[![Email](https://img.shields.io/badge/alejandro.aldan89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.aldan89@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/aldanaale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldanaale)
+[![Location](https://img.shields.io/badge/Santiago,_Chile-7c5cfc?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Open to work](https://img.shields.io/badge/🟢_Open_to_work-22c55e?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## Stack técnico
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=aldanaale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090e&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0&border_radius=12"/>
 
-**Lenguajes y runtime**
+### 👋 Sobre mí
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+```typescript
+const alejandro = {
+  rol:        "Full Stack Developer",
+  ubicacion:  "Santiago, Chile 🇨🇱",
+  formacion:  "Analista Programador · Duoc UC",
+  buscando:   "Primer rol profesional",
+  arquitectura: ["Clean Architecture", "CQRS"],
+  superPoder: "Integro IA en cada flujo de trabajo",
+  contacto:   "alejandro.aldan89@gmail.com"
+};
+```
 
-**Arquitectura y backend**
+<br clear="right"/>
 
-![REST API](https://img.shields.io/badge/REST_APIs-7c5cfc?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-7c5cfc?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-7c5cfc?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-a78bfa?style=flat-square)
-![OAuth2](https://img.shields.io/badge/OAuth2_/_JWT-a78bfa?style=flat-square)
+---
+
+## 🧱 Stack técnico
+
+<div align="center">
+
+**Lenguajes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend y Arquitectura**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-7c5cfc?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-7c5cfc?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-a78bfa?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-a78bfa?style=for-the-badge)
 
 **Bases de datos**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Inteligencia Artificial**
 
-![Agentes IA](https://img.shields.io/badge/Agentes_IA-FF6B35?style=flat-square)
-![MCP Tools](https://img.shields.io/badge/MCP_Tools-F7931A?style=flat-square)
-![API Claude](https://img.shields.io/badge/API_Claude/_Anthropic-D97706?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square)
-![Prompting](https://img.shields.io/badge/Prompting_técnico-A855F7?style=flat-square)
+![Claude](https://img.shields.io/badge/API_Claude-D97706?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP_Tools-F7931A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge)
+![Agentes](https://img.shields.io/badge/Agentes_IA-FF6B35?style=for-the-badge)
+
+</div>
 
 ---
 
-## Cómo trabajo
+## 🏛️ Arquitectura que aplico
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Presentation Layer  ──→  Controllers / Endpoints      │
-│         ↓                                               │
-│   Application Layer   ──→  Commands / Queries (CQRS)    │
-│         ↓                                               │
-│   Domain Layer        ──→  Entidades / Lógica de negocio│
-│         ↓                                               │
-│   Infrastructure      ──→  Repos / DB / APIs externas   │
-│                                                         │
-│   Clean Architecture + CQRS desde el inicio, no después │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## Formación
-
-```
-Analista Programador Computacional
-Instituto Profesional Duoc UC · 2023 – 2026
-Titulando · TypeScript, C#/.NET, SQL, Clean Architecture, SOLID
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🌐  Presentation    →   Controllers / Endpoints REST       │
+│           ↓                                                  │
+│   ⚙️  Application     →   Commands & Queries  (CQRS)        │
+│           ↓                                                  │
+│   💎  Domain          →   Entities / Business Logic          │
+│           ↓                                                  │
+│   🗄️  Infrastructure  →   Repos / DB / HTTP / APIs ext.     │
+│                                                              │
+│          Clean Architecture · CQRS · SOLID                   │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Contacto
+## 📊 GitHub Stats
 
-Estoy buscando mi primer rol profesional. Si tienes una oportunidad o quieres conversar, escríbeme:
+<div align="center">
 
-**✉️ alejandro.aldan89@gmail.com**  
-**📱 +56 9 4009 4753**  
-**📍 Santiago, Chile — disponible presencial o remoto**
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldanaale&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090e&title_color=a78bfa&text_color=e8e8f0&border_radius=12&langs_count=6"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aldanaale&theme=tokyonight&hide_border=true&background=09090e&ring=7c5cfc&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12"/>
+
+</div>
+
+---
+
+## 📂 Proyectos destacados
+
+> 🔧 *Agrega aquí tus repos principales con este formato:*
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=aldanaale&repo=NOMBRE-DEL-REPO&theme=tokyonight&hide_border=true&bg_color=09090e&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0&border_radius=12)](https://github.com/aldanaale/NOMBRE-DEL-REPO)
+
+---
+
+## 🎓 Formación
+
+| | |
+|---|---|
+| 🎓 **Analista Programador Computacional** | Instituto Profesional Duoc UC |
+| 📅 2023 – 2026 | En proceso de titulación |
+| ☁️ **Microsoft AZ-900** | Certificación Azure en proceso |
 
 ---
 
 <div align="center">
 
-*"Clean code is not written by following a set of rules. It is written by someone who cares."*
+### 📬 Contáctame
 
-![Profile views](https://komarev.com/ghpvc/?username=aldanaale&color=7c5cfc&style=flat-square&label=visitas+al+perfil)
+Busco mi primer rol profesional — listo para aportar desde el primer día.
+
+[![Gmail](https://img.shields.io/badge/alejandro.aldan89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.aldan89@gmail.com)
+[![Phone](https://img.shields.io/badge/+56_9_4009_4753-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56940094753)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=aldanaale&color=7c5cfc&style=for-the-badge&label=VISITAS+AL+PERFIL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cfc&height=120&section=footer" width="100%"/>
 
 </div>
-## Hi there 👋
-
-<!--
-**aldanaale/aldanaale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
