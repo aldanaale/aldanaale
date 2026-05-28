@@ -1,142 +1,117 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d14&height=3&section=header" width="100%"/>
-</div>
 
-```
-╭─────────────────────────────────────────────────────────────────────╮
-│  ~/alejandro-aldana  main ✔                              zsh  11:42 │
-╰─────────────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-# `alejandro@aldana:~$` <br/> whoami
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alejandro%20Aldana&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20TypeScript%20·%20C%23%20·%20.NET%20·%20SQL&descAlignY=55&descSize=15&animation=twinkling" width="100%"/>
 
 </div>
 
-```typescript
-export const dev = {
-  nombre:      "Alejandro Aldana",
-  rol:         "Full Stack Developer",
-  ubicacion:   "Santiago, Chile 🇨🇱",
-  formacion:   "Analista Programador — Duoc UC (titulando)",
-  buscando:    "Primer rol profesional",
-
-  arquitectura: ["Clean Architecture", "CQRS", "SOLID"],
-  stack:        ["TypeScript", "C#/.NET", "Node.js", "SQL"],
-  base_datos:   ["MySQL", "SQL Server"],
-  ia:           ["Agentes IA", "MCP Tools", "API Claude", "RAG"],
-
-  filosofia:   "Clean code desde el inicio. No como decoración.",
-  contacto:    "alejandro.aldan89@gmail.com",
-} as const;
-```
-
----
-
-```
-alejandro@aldana:~$ cat arquitectura.txt
-```
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   [ 🌐 Presentation ]  ──▶  Controllers · Endpoints REST        │
-│            │                                                    │
-│            ▼                                                    │
-│   [ ⚙️  Application  ]  ──▶  Commands · Queries  (CQRS)        │
-│            │                                                    │
-│            ▼                                                    │
-│   [ 💎  Domain       ]  ──▶  Entidades · Business Logic         │
-│            │                                                    │
-│            ▼                                                    │
-│   [ 🗄️  Infrastructure] ──▶  Repos · DB · HTTP · APIs ext.     │
-│                                                                 │
-│   No como extra. Desde el primer commit.                        │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```
-alejandro@aldana:~$ ls -la ./tech-stack/
-```
+<br/>
 
 <div align="center">
 
-|  | Lenguajes | Backend | Base de datos |
-|:---:|:---:|:---:|:---:|
-| ![ts](https://skillicons.dev/icons?i=ts) | TypeScript | ![nodejs](https://skillicons.dev/icons?i=nodejs) Node.js | ![mysql](https://skillicons.dev/icons?i=mysql) MySQL |
-| ![cs](https://skillicons.dev/icons?i=cs) | C# | ![dotnet](https://skillicons.dev/icons?i=dotnet) .NET Core | ![sqlserver](https://skillicons.dev/icons?i=mssql) SQL Server |
-| ![python](https://skillicons.dev/icons?i=python) | Python | 🏛️ Clean Arch | 🔗 Relacional |
-| ![js](https://skillicons.dev/icons?i=js) | JavaScript | ⚡ CQRS | ✅ JOINs complejos |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Clean+Architecture+%2B+CQRS+desde+el+d%C3%ADa+1+%E2%9C%94;REST+APIs+con+TypeScript+y+C%23+%2F+.NET;Integro+IA+en+mi+flujo+de+trabajo+diario+%F0%9F%A4%96;Buscando+primer+rol+profesional+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-| Herramientas | IA & Futuro |
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧑‍💻 Sobre mí
+
+Soy desarrollador en etapa final de titulación con foco en **backend robusto y arquitectura limpia**. Construyo APIs REST aplicando **Clean Architecture y CQRS** desde el inicio — no como capa decorativa.
+
+Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tools, API Claude) en mis flujos de trabajo, lo que me permite entregar más rápido y con mejor calidad.
+
+📍 Santiago, Chile &nbsp;·&nbsp; 🟢 Open to work &nbsp;·&nbsp; 💼 Disponible presencial o remoto
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aldanaale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0&hide_title=true&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,python,nodejs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,azure,git,github,vscode,githubactions&theme=dark" />
+
+<br/><br/>
+
+| 🏛️ Arquitectura | 🤖 Inteligencia Artificial |
 |:---:|:---:|
-| ![git](https://skillicons.dev/icons?i=git) ![github](https://skillicons.dev/icons?i=github) ![vscode](https://skillicons.dev/icons?i=vscode) ![azure](https://skillicons.dev/icons?i=azure) | 🤖 Agentes IA · MCP Tools · API Claude · RAG |
+| Clean Architecture · CQRS · SOLID | Agentes IA · MCP Tools · API Claude · RAG |
+| REST APIs · OAuth2 · JWT | Prompting técnico aplicado al desarrollo |
+| Integraciones HTTP · Tipado estricto | Integración con LLMs en flujos reales |
 
 </div>
 
 ---
 
-```
-alejandro@aldana:~$ git log --oneline --graph
-```
+## 📊 Stats
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=aldanaale&show_icons=true&theme=merko&hide_border=true&bg_color=0d0d14&title_color=7cfc84&icon_color=7cfc84&text_color=c8ffc8&ring_color=7cfc84&border_radius=8&hide_title=true"/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldanaale&layout=compact&theme=merko&hide_border=true&bg_color=0d0d14&title_color=7cfc84&text_color=c8ffc8&border_radius=8&langs_count=5"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aldanaale&theme=tokyonight&hide_border=true&background=00000000&ring=7c5cfc&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldanaale&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=e8e8f0&langs_count=6" width="49%"/>
 
 </div>
 
 ---
 
-```
-alejandro@aldana:~$ ls ./proyectos/
-```
-
-> 🚧 Cargando repositorios... reemplaza las líneas de abajo con tus repos reales:
-
-```bash
-# Pega aquí tus repo cards — ejemplo:
-# [![repo](https://github-readme-stats.vercel.app/api/pin/?username=aldanaale&repo=TU-REPO&theme=merko&hide_border=true&bg_color=0d0d14&title_color=7cfc84&text_color=c8ffc8)](https://github.com/aldanaale/TU-REPO)
-```
-
----
-
-```
-alejandro@aldana:~$ cat ./contacto.json
-```
-
-```json
-{
-  "email":     "alejandro.aldan89@gmail.com",
-  "telefono":  "+56 9 4009 4753",
-  "github":    "github.com/aldanaale",
-  "ubicacion": "Santiago, Chile",
-  "estado":    "🟢 Open to work — buscando primer rol profesional",
-  "disponible": "presencial o remoto"
-}
-```
+## 📂 Proyectos
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/─────────────────────────────────────-0d0d14?style=for-the-badge)](#)
+<!--
+  Reemplaza REPO-1 y REPO-2 con el nombre real de tus repositorios:
+-->
 
-[![Gmail](https://img.shields.io/badge/Escríbeme-alejandro.aldan89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.aldan89@gmail.com)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aldanaale&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0)](https://github.com/aldanaale/REPO-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aldanaale&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0)](https://github.com/aldanaale/REPO-2)
+
+</div>
+
+---
+
+## 🎓 Formación
+
+<div align="center">
+
+| 🎓 Analista Programador Computacional | ☁️ Microsoft AZ-900 |
+|:---:|:---:|
+| Instituto Profesional Duoc UC | Certificación Azure |
+| 2023 – 2026 · Titulando | En proceso |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Contacto
+
+[![Gmail](https://img.shields.io/badge/Gmail-alejandro.aldan89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.aldan89@gmail.com)
+&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+56_9_4009_4753-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56940094753)
 
 <br/>
 
-```
-alejandro@aldana:~$ exit
-```
-```
-Hasta pronto. El código habla por sí solo.
-```
+![Profile views](https://komarev.com/ghpvc/?username=aldanaale&color=7c5cfc&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
-![visitors](https://komarev.com/ghpvc/?username=aldanaale&color=7cfc84&style=flat-square&label=visitas)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
