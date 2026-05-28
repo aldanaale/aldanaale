@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
 Soy desarrollador en etapa final de titulación con foco en **backend robusto y arquitectura limpia**.<br/>
 Construyo APIs REST aplicando **Clean Architecture y CQRS** desde el inicio — no como capa decorativa.<br/>
@@ -36,7 +36,7 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
 <div align="center">
 
@@ -84,11 +84,11 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 
 ---
 
-## 🎓 Formación
+## Formación
 
 <div align="center">
 
-| 🎓 Analista Programador Computacional | ☁️ Microsoft AZ-900 |
+| Analista Programador Computacional | ☁️ Microsoft AZ-900 |
 |:---:|:---:|
 | Instituto Profesional Duoc UC | Certificación Azure |
 | 2023 – 2026 · Titulando | En proceso |
@@ -99,7 +99,7 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 
 <div align="center">
 
-## 📬 Contacto
+## Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-alejandro.aldan89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.aldan89@gmail.com)
 &nbsp;
