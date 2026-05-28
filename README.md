@@ -14,26 +14,25 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
 ### 🧑‍💻 Sobre mí
 
-Soy desarrollador en etapa final de titulación con foco en **backend robusto y arquitectura limpia**. Construyo APIs REST aplicando **Clean Architecture y CQRS** desde el inicio — no como capa decorativa.
+Soy desarrollador en etapa final de titulación con foco en **backend robusto y arquitectura limpia**.<br/>
+Construyo APIs REST aplicando **Clean Architecture y CQRS** desde el inicio — no como capa decorativa.<br/>
+Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tools, API Claude) en mis flujos de trabajo.
 
-Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tools, API Claude) en mis flujos de trabajo, lo que me permite entregar más rápido y con mejor calidad.
+<br/>
 
 📍 Santiago, Chile &nbsp;·&nbsp; 🟢 Open to work &nbsp;·&nbsp; 💼 Disponible presencial o remoto
 
-</td>
-<td width="45%" valign="top" align="center">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aldanaale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0&hide_title=true&rank_icon=github" width="100%"/>
+<br/>
 
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" style="border-radius:12px"/>
+</div>
 
 ---
 
@@ -75,7 +74,7 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 <div align="center">
 
 <!--
-  Reemplaza REPO-1 y REPO-2 con el nombre real de tus repositorios:
+  Reemplaza REPO-1 y REPO-2 con el nombre real de tus repositorios
 -->
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aldanaale&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=a78bfa&icon_color=7c5cfc&text_color=e8e8f0)](https://github.com/aldanaale/REPO-1)
