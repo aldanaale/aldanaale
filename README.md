@@ -91,7 +91,7 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 | Analista Programador Computacional | ☁️ Microsoft AZ-900 |
 |:---:|:---:|
 | Instituto Profesional Duoc UC | Certificación Azure |
-| 2023 – 2026 · Titulando | En proceso |
+| 2023 – 2026 |
 
 </div>
 
