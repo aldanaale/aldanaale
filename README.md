@@ -24,8 +24,6 @@ Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tool
 
 <br/>
 
-📍 Santiago, Chile &nbsp;·&nbsp; 🟢 Open to work &nbsp;·&nbsp; 💼 Disponible presencial o remoto
-
 </div>
 
 <br/>
