@@ -14,18 +14,6 @@
 
 <br/>
 
-<div align="center">
-
-### Sobre mí
-
-Soy desarrollador con foco en **backend robusto y arquitectura limpia**.<br/>
-Construyo APIs REST aplicando **Clean Architecture y CQRS** desde el inicio — no como capa decorativa.<br/>
-Me diferencio por integrar activamente **herramientas de IA** (agentes, MCP tools, API Claude) en mis flujos de trabajo.
-
-<br/>
-
-</div>
-
 <br/>
 
 <div align="center">
